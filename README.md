@@ -26,7 +26,7 @@
 		<li><img src="images/4.jpg" /></li>
 		<li><img src="images/5.jpg" /></li>
 		<li><img src="images/6.jpg" /></li>
-		<li><img src="images/7.jpg" /></li>
+		
 	</ul>
 </div>
 <div id="Slide2" class="zy-Slide">
@@ -38,7 +38,7 @@
 		<li><img src="images/4.jpg" /></li>
 		<li><img src="images/5.jpg" /></li>
 		<li><img src="images/6.jpg" /></li>
-		<li><img src="images/7.jpg" /></li>
+		
 		<li><img src="images/1.jpg" /></li>
 		<li><img src="images/2.jpg" /></li>
 		<li><img src="images/3.jpg" /></li>
